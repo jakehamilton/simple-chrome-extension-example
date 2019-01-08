@@ -27,3 +27,5 @@ npm i
 ```shell
 npm run build
 ```
+
+4. Load the unpacked extension from `dist`
